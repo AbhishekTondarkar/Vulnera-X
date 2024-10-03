@@ -1,7 +1,5 @@
 flask
 scikit-learn
 joblib
-pandas
 numpy
 tensorflow
-requests
